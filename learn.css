@@ -1,0 +1,52 @@
+* {
+   color: saddlebrown;
+   margin: 0px;
+
+}
+
+body{
+    background-color: white;
+    text-align: center;
+    color: hotpink;  
+    font-size: 500%;
+    font-family: inherit;
+    margin:0px;
+    
+}
+a {
+text-decoration: none;
+font-size: 20px;
+color: black;
+}
+
+h6 {
+  font-style:oblique;
+  font-size: 50%;
+  
+}
+    
+}
+.image{
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #ddd;
+    padding: 5px;
+    
+}
+img {
+    width: 30Opx;
+    height: 200px;
+    margin: 10px;
+    transition: all 1s;
+    
+}
+img:hover {
+    transform: scale(1.1)
+}
+
+li {
+    color: black;
+    text-align:right;
+    display:inline-block;
+}
